@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats]( https://GitHub.com/Pranesh-2005/Github-readme-stats-fast/api?username=Totoro-jam)]( https://GitHub.com/Pranesh-2005/Github-readme-stats-fast)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Totoro-jam)](https://github.com/pranesh-2005/github-readme-stats-fast)
