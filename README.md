@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Totoro-jam)](https://github.com/pranesh-2005/github-readme-stats-fast)
-
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Totoro-jam&langs_count=8)
