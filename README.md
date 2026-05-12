@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Totoro-jam)](https://github.com/pranesh-2005/github-readme-stats-fast)
+<a href="https://github.com/Pranesh-2005/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Totoro-jam" />
+</a>
 <a href="https://github.com/Pranesh-2005/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Pranesh-2005&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Totoro-jam&layout=compact&langs_count=8&card_width=320" />
 </a>
