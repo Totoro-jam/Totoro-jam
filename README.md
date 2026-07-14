@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🇨🇳 China · 🧑‍💻 Software Engineer · Open Source
+  🇨🇳 China | 🧑‍💻 Software Engineer | Open Source
 </p>
 
 <p align="center">
