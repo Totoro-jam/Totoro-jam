@@ -28,4 +28,4 @@
 
 <br>
 
-<img src="assets/banner.gif" width="100%" alt="late wind, long voyage" />
+<img src="assets/banner.gif" width="100%" alt="night sea sailboat banner" />
