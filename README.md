@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm totoro-jam 👋</h1>
 
 <p align="center">
-  <i>✨🌌A late wind is still a wind — ⛵️long voyage</i>
+  <i><strong>Bio: </strong> ✨🌌A late wind is still a wind — ⛵️long voyage</i>
 </p>
 
 <p align="center">
