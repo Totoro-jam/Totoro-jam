@@ -20,6 +20,8 @@
 
 ## Projects
 
+### Battle-Tested Patterns
+
 <a href="https://patterns.totorojam.com">
   <img src="https://patterns.totorojam.com/favicon.svg" width="18" align="left" style="margin-right:8px" />
   <b>Battle-Tested Patterns</b>
@@ -28,5 +30,8 @@
 *46 patterns from React, Linux, Go & Redis source — with source links, 4-language exercises, and interactive viz.*
 
 <br>
+
+### 🚧🚧🚧 learn any lab [Under construction]
+
 
 <img src="assets/banner.gif" width="100%" alt="night sea sailboat banner" />
