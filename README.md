@@ -29,9 +29,9 @@
 
 *46 patterns from React, Linux, Go & Redis source — with source links, 4-language exercises, and interactive viz.*
 
-<br>
 
 ### 🚧🚧🚧 learn any lab [Under construction]
 
+<br>
 
 <img src="assets/banner.gif" width="100%" alt="night sea sailboat banner" />
