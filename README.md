@@ -29,8 +29,27 @@
 
 *46 patterns from React, Linux, Go & Redis source — with source links, 4-language exercises, and interactive viz.*
 
+---
 
-### 🚧🚧🚧 learn any lab [Under construction]
+### Learn Any Lab
+
+<a href="https://react-lab.totorojam.com">
+  <img src="https://react-lab.totorojam.com/favicon.svg" width="18" align="left" style="margin-right:8px" />
+  <b>React Lab</b>
+</a>
+
+*A Chinese deep-dive into React 19 internals — Fiber, Hooks, scheduler, concurrency & RSC.*
+
+---
+
+🚧Under construction
+
+- [c-lab](https://github.com/Totoro-jam/c-lab) — *C language general-knowledge lab, 12 chapters from syntax to system programming, one-click `make test`.*
+- [rust-lab](https://github.com/Totoro-jam/rust-lab) — *A from-scratch Rust tutorial, each chapter a small standalone project you can `cargo run`.*
+- [python-lab](https://github.com/Totoro-jam/python-lab) — *Hands-on modern Python — typing, async, pytest, FastAPI, NumPy/Pandas, SQLAlchemy, and more.*
+- [testing-lab](https://github.com/Totoro-jam/testing-lab) — *A field for learning front-end testing, to understand 95% of front-end test code.*
+
+---
 
 <br>
 
